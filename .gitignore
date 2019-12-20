@@ -17,3 +17,6 @@ venv.bak/
 
 # pyenv
 .python-version
+
+# storage file
+storage.json
