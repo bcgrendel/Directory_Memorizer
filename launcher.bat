@@ -84,7 +84,7 @@ echo     -s ^<search_term^>                      Lists shortcuts matching the se
 echo                                           May use the '%%' character as wildcard.
 echo           EXAMPLE: %%project%%reports%%
 echo.
-echo     -h                                    Displays this help message
+echo     -h                                    Displays this help message.
 goto :end
 
 :end
