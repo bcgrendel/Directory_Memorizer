@@ -118,8 +118,8 @@ To search for shortcuts matching a search term (in this example, we'll search fo
 sd -s startup
 ```
 
-For searches, wildcards may also be used. By default, your search term is wrapped by wildcard character on both sides if none are specified. The wildcard character is '%'.
-Wildcard characters can be placed wherever. __Under the hood, it's just python creating a regex string out of the search term by replacing the '%' characters with '.*'.__
+For searches, wildcards may also be used. By default, your search term is wrapped by a wildcard character on both sides if none are specified. The wildcard character is '%'.
+Wildcard characters can be placed wherever. __Under the hood, it's just python creating a regex string out of the search term by replacing the '%' characters with '.*'__
 
 ```Console:
 sd -s %project%reports%
