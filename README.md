@@ -16,7 +16,7 @@ This CLI tool is meant to save time navigating between frequently used directori
 * Fuzzy (pip install fuzzy)
 
 For Windows:
-* Cmder [https://cmder.net/](https://cmder.net/) (this tool can probably be made to work with some other command shells)
+* Cmder [https://cmder.net/](https://cmder.net/) (Directory Memorizer can probably be made to work with some other command shells)
 
 ### Installation
 
