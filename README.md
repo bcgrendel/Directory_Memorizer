@@ -38,7 +38,7 @@ Next, navigate to the startup scripts directory for Cmder. From the Cmder instal
 
 If you don't already have a startup batch script in this directory, create one with whatever name you wish ("startup.bat" should suffice). Now open this file in your preferred editor.
 
-If this is a new script, it's recommended that you add @echo off as the first line of the script so that the commands we run in this script don't pollute your Cmder shell everytime you run Cmder.
+If this is a new script, it's recommended that you add @echo off as the first line of the script so that the commands we run in this script don't pollute your Cmder shell everytime you run it.
 
 Add the following lines:
 
