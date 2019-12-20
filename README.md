@@ -27,6 +27,7 @@ Note that these instructions assume you're using Cmder.
 If you don't have [Python](https://www.python.org/downloads/) installed, download the latest version of Python 3, and make sure it can be run from command line. Then run:
 
 pip install fuzzy
+
 pip install jellyfish
 
 If that failed, you may also need to add the scripts directory (from your python installation), to your PATH variable as well.
