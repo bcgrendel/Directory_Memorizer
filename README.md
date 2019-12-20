@@ -30,11 +30,11 @@ pip install fuzzy
 
 pip install jellyfish
 
-If that failed, you may also need to add the scripts directory (from your python installation), to your PATH variable as well.
+If that failed, you may also need to add the 'scripts' directory (from your python installation), to your PATH variable as well.
 
 Install the [Cmder](https://cmder.net/) console emulator if you haven't already.
 
-Next, navigate to the startup scripts directory for Cmder. From the Cmder install directory, it's in **__config/profile.d__** - if you're not sure where Cmder is located, the default configuration usually has Cmder opening in its own installation directory by default, so just open Cmder, run `cd config/profile.d`, and then run `explorer .\`. Not only will you have your Cmder shell inside the startup directory, and you'll have a file explorer window open here too (we'll need this shortly).
+Next, navigate to the startup scripts directory for Cmder. From the Cmder install directory, it's in **__config/profile.d__** - if you're not sure where Cmder is located, the default configuration usually has Cmder opening in its own installation directory by default, so just open Cmder, run `cd config/profile.d`, and then run `explorer .\`. Not only will you have your Cmder shell inside the startup directory, you'll have a file explorer window open here too (we'll need this shortly).
 
 If you don't already have a startup batch script in this directory, create one with whatever name you wish ("startup.bat" should suffice). Now open this file in your preferred editor.
 
